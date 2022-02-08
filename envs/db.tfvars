@@ -33,4 +33,9 @@ UAT_instance_id             = "2"
 UAT_environment             = ["UAT"]
 UAT_project_name            = "UAT"
 UAT_sa_name                 = "uat_sa.com"
-UAT_sa_public_key_directory = "../identities/UAT/dbc/"
+UAT_sa_public_key_directory = "../identities/UAT/dbc/"dfksjdflksf_nar_id                  = "345678"
+dfksjdflksf_instance_id             = "4"
+dfksjdflksf_environment             = ["sdjfklskfjk"]
+dfksjdflksf_project_name            = "dfksjdflksf"
+dfksjdflksf_sa_name                 = "sdkflskjflksdf"
+dfksjdflksf_sa_public_key_directory = "../identities/dfksjdflksf/dbc/"
